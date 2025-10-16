@@ -29,6 +29,11 @@
   padding: 14px 18px;
 }
 
+.p-paginator .p-paginator-pages .p-paginator-page.p-highlight {
+  background-color: #2563eb ;
+  color: white;
+  font-weight: 600;
+}
 
 
 
@@ -37,7 +42,6 @@
   border-color: #2563eb;
 }
 
-/* ========== Optional Table Header Styling ========== */
 .p-datatable .p-datatable-thead > tr > th {
   background-color: #f9fafb;
   font-weight: 600;
