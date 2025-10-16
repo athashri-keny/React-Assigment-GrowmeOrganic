@@ -12,10 +12,7 @@ dist
 dist-ssr
 *.local
 package-lock.json
-README.md
-tsconfig.app.json
-tsconfig.json
-tsconfig.node.json
+
 
 
 # Editor directories and files
